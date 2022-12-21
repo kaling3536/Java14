@@ -7,7 +7,7 @@ InputStream、OutputStream 類別是用來處理「位元串流」,也就是二�
 import java.util.Scanner;
 import java.lang.String;
 
-public class hw14_1 {
+public class hw14_2 {
 	public static void main(String args[]) {
 		Scanner scn = new Scanner(System.in);
 		String str;
@@ -24,7 +24,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
 
-public class hw14_1_3 {
+public class hw14_3 {
 	public static void main(String args[]) throws IOException {
 		int n, sum = 0;
 		BufferedReader buf;
