@@ -1,7 +1,7 @@
 #1
 import java.io.*;
 
-public class hw14_2 {
+public class hw14_4 {
 	public static void main(String args[]) throws IOException {
 		char data[] = new char[128];
 		FileReader fr = new FileReader("C:\\Users\\WIN\\eclipse-workspace\\Java14\\src\\donkey.txt");
@@ -18,7 +18,7 @@ public class hw14_2 {
 #2
 import java.io.*;
 
-public class hw14_2_2 {
+public class hw14_5 {
 	public static void main(String args[]) throws IOException {
 		char data[] = new char[128];
 		FileReader fr = new FileReader("C:\\Users\\WIN\\eclipse-workspace\\Java14\\src\\donkey.txt");
@@ -34,7 +34,7 @@ public class hw14_2_2 {
 #3
 import java.io.*;
 
-public class hw14_2_3 {
+public class hw14_6 {
 	public static void main(String args[]) {
 		try {
 			char data[] = new char[128];
