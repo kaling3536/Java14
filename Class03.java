@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class hw14_3 {
+public class hw14_7 {
 	public static void main(String args[]) throws IOException {
 		int count = 0;
 		String str;
